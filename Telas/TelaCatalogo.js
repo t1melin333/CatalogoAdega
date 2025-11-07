@@ -73,7 +73,7 @@ export default function TelaCatalogo() {
             <Text style={styles.nome}> Elvio Cogno Ravera Barolo</Text>
           </View>
           <Text style={styles.descricao}>
-            Vinho estruturado, com notas de cereja e frutas maduras, ideal para ocasiões especiais e pratos mais elaborados.
+            Vinho estruturado, com notas de cereja e frutas maduras, ideal para ocasiões especiais e pratos mais chiques.
           </Text>
         </View>
       </View>
